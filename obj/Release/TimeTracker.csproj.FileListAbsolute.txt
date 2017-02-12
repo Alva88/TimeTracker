@@ -1,0 +1,8 @@
+C:\Users\Andretti\Documents\Visual Studio 2015\Projects\TimeTracker\TimeTracker\bin\Release\TimeTracker.exe.config
+C:\Users\Andretti\Documents\Visual Studio 2015\Projects\TimeTracker\TimeTracker\bin\Release\TimeTracker.exe
+C:\Users\Andretti\Documents\Visual Studio 2015\Projects\TimeTracker\TimeTracker\bin\Release\TimeTracker.pdb
+C:\Users\Andretti\Documents\Visual Studio 2015\Projects\TimeTracker\TimeTracker\obj\Release\TimeTracker.F_Main.resources
+C:\Users\Andretti\Documents\Visual Studio 2015\Projects\TimeTracker\TimeTracker\obj\Release\TimeTracker.Properties.Resources.resources
+C:\Users\Andretti\Documents\Visual Studio 2015\Projects\TimeTracker\TimeTracker\obj\Release\TimeTracker.csproj.GenerateResource.Cache
+C:\Users\Andretti\Documents\Visual Studio 2015\Projects\TimeTracker\TimeTracker\obj\Release\TimeTracker.exe
+C:\Users\Andretti\Documents\Visual Studio 2015\Projects\TimeTracker\TimeTracker\obj\Release\TimeTracker.pdb

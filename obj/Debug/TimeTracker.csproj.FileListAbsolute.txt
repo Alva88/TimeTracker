@@ -1,0 +1,9 @@
+c:\users\andretti\documents\visual studio 2015\Projects\TimeTracker\TimeTracker\bin\Debug\TimeTracker.exe.config
+c:\users\andretti\documents\visual studio 2015\Projects\TimeTracker\TimeTracker\bin\Debug\TimeTracker.exe
+c:\users\andretti\documents\visual studio 2015\Projects\TimeTracker\TimeTracker\bin\Debug\TimeTracker.pdb
+c:\users\andretti\documents\visual studio 2015\Projects\TimeTracker\TimeTracker\obj\Debug\TimeTracker.csprojResolveAssemblyReference.cache
+c:\users\andretti\documents\visual studio 2015\Projects\TimeTracker\TimeTracker\obj\Debug\TimeTracker.F_Main.resources
+c:\users\andretti\documents\visual studio 2015\Projects\TimeTracker\TimeTracker\obj\Debug\TimeTracker.Properties.Resources.resources
+c:\users\andretti\documents\visual studio 2015\Projects\TimeTracker\TimeTracker\obj\Debug\TimeTracker.csproj.GenerateResource.Cache
+c:\users\andretti\documents\visual studio 2015\Projects\TimeTracker\TimeTracker\obj\Debug\TimeTracker.exe
+c:\users\andretti\documents\visual studio 2015\Projects\TimeTracker\TimeTracker\obj\Debug\TimeTracker.pdb
